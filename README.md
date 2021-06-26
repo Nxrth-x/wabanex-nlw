@@ -1,19 +1,29 @@
-# Wabanex
+# Next Level Week 06 - Elixir 🚀
 
-To start your Phoenix server:
+Repositório do projeto em Elixir da NLW06
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+## Projeto - Wabanex 🏋️‍♀️
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+Gerenciamento de treinamentos pelo `Elixir` usando `GraphQL`.
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+### Tecnologias 💻
 
-## Learn more
+- `Elixir`
+- `Ecto`
+- `Phoenix`
+- `Absinthe`
 
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+### Estrutura do banco de dados 🎲
+
+![image](assets/database.png)
+
+## Autor 😸
+
+- [GitHub](https://github.com/Nxrth-x)
+- [LinkedIn](https://linkedin.com/in/lima-eder)
+- [Facebook](https://facebook.com/DCCLXXIX)
+
+## Rocketseat 👨‍🚀🚀
+
+- [Next Level Week](https://nextlevelweek.com/)
+- [Rocketseat](https://rocketseat.com.br)
